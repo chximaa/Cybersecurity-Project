@@ -69,31 +69,31 @@ Cybersecurity-Project/
 
 ## 🏠 Front Page
 
-![Front Page](pictures/frontpage.png)
+[![Front Page](pictures/frontpage.png)](https://raw.githubusercontent.com/chximaa/Cybersecurity-Project/main/images/frontpage.png)
 
 ---
 
 ## 🔑 Login Page
 
-![Login](pictures/login.png)
+[![Login](pictures/login.png)](https://raw.githubusercontent.com/chximaa/Cybersecurity-Project/main/images/login.png)
 
 ---
 
 ## 📝 Sign Up Page
 
-![Sign Up](pictures/signUp.png)
+[![Sign Up](pictures/signUp.png)](https://raw.githubusercontent.com/chximaa/Cybersecurity-Project/main/images/signup.png)
 
 ---
 
 ## 👤 Profile Page
 
-![Profile](pictures/profil.png)
+[![Profile](pictures/profil.png)](https://raw.githubusercontent.com/chximaa/Cybersecurity-Project/main/images/profil.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](pictures/dashbord.png)
+[![Dashboard](pictures/dashbord.png)](https://raw.githubusercontent.com/chximaa/Cybersecurity-Project/main/images/dashbord.png)
 
 ---
 
