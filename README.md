@@ -75,19 +75,18 @@ Cybersecurity-Project/
 
 ## 🔑 Login Page
 
-[!Login](https://github.com/chximaa/Cybersecurity-Project/blob/7a63ba58fc98cc506d25dd4d40a23211fc7a53a9/images/login.png)
+[!Login](https://github.com/chximaa/Cybersecurity-Project/blob/a6a3e77c5adeee36b10411b0286174b125def6f6/images/login.png)
 
 ---
 
 ## 📝 Sign Up Page
-
-![Sign Up](https://github.com/chximaa/Cybersecurity-Project/blob/62909fb30e4ad3f1fc47ef362650608ba2c01e8d/images/login.png)
+![Sign Up](https://github.com/chximaa/Cybersecurity-Project/blob/a6a3e77c5adeee36b10411b0286174b125def6f6/images/signUp.png)
 
 ---
 
 ## 👤 Profile Page
 
-![Profile](https://github.com/chximaa/Cybersecurity-Project/blob/62909fb30e4ad3f1fc47ef362650608ba2c01e8d/images/login.png)
+![Profile](https://github.com/chximaa/Cybersecurity-Project/blob/a6a3e77c5adeee36b10411b0286174b125def6f6/images/profil.png)
 
 ---
 
