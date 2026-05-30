@@ -31,11 +31,11 @@ account creation workflows.
 
 ## Backend
 
-*Spring boot*
+*Spring boot
 
 ## Database
 
-* MySQL *
+* MySQL 
 
 ## Security Concepts
 
